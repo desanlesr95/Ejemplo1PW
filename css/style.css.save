@@ -1,0 +1,33 @@
+.rget{
+ float: left;
+}
+
+.r1{
+ float: nome;
+}
+
+.r2{
+ float: right;
+}
+.rget{
+ float: left;
+ margin-top: auto;
+ display: inline-block;
+}
+
+.r1{
+ float: nome;
+ margin-top: auto;
+ display: inline-block;
+}
+
+.r2{
+ float: right;
+ margin-top: auto;
+dispaly: inline-block;
+}
+
+.color{
+background
+
+

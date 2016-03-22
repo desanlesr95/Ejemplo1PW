@@ -1,0 +1,69 @@
+.textred{
+    color: #F10505;
+}
+.textblue{
+	color: #2E00FF;
+}
+.textnegro{
+	color: #402222;
+}
+.textright{
+	text-align: right;
+}
+.textleft{
+	text-align: left;
+}
+.textcenter{
+	text-align: center;
+}
+
+
+.divred{
+	background-color: #EC2727;
+}
+.divblue{
+	background-color: #000EFF;
+}
+.divwhite{
+	background-color: #FFFFFF;
+}
+.divyellow{
+	background-color: #FFF500;
+}
+.divcontainer{
+	background-color: #E1941F;
+}
+.d1{
+	background-color: #E6E3F0;
+}
+
+
+.rget{
+ float: left;
+}
+.alinderecha{
+	float: right;
+	clear: right;
+}
+.r1{
+ float: none;
+}
+.r2{
+width: 50%;
+clear: right;
+}
+
+
+.imagen{
+	width: 80%;
+	height: 40%;
+}
+
+
+.p{
+font-family: fantasy;
+font-size: 30px;
+}
+.h{
+   text-align: center;
+}
